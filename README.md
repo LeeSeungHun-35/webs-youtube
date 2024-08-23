@@ -7,8 +7,8 @@ YouTube Data API를 활용하여 외부 데이터를 가져오는 방법을 익�
 미리보기 : 
 
 ## 사용스택
-- node.js를 설치&사용
-- react를 사용하여 사이트를 완성
+- node.js를 설치&사용합니다.
+- react를 사용하여 사이트를 완성합니다.
 - youTube Api를 이용하여 데이터를 가져옵니다
 - rapidapi를 이용하여 데이터를 가져옵니다.
 - netlify를 통해 사이트를 배포합니다.
