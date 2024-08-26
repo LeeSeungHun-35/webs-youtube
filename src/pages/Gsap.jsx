@@ -1,9 +1,14 @@
 import React from 'react'
+import Main from '../components/section/Main'
 
 const Gsap = () => {
-  return (
-    <div>Gsap</div>
-  )
+    return (
+        <Main
+            title="lsh유튜브"
+            description="lsh 유튜브에 오신 것을 환영합니다.">
+            내 채널(Gsap)
+        </Main>
+    )
 }
 
 export default Gsap
