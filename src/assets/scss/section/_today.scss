@@ -20,40 +20,29 @@
         margin-bottom: 10px;
         display: inline-block;
     }
-
     .title {
         font-size: 2rem;
         margin-bottom: 1rem;
-        @mixin line-one {
-  // 믹스인의 스타일 정의
-  line-height: 1.5;
-}
-
+        @include line-one;
     }
-
     .desc {
         margin-bottom: 1rem;
         color: var(--white200);
-        font-size: 0.9rem; // 크기 조정
-        @include line(4);
     }
-
+        
     .info {
         .author {
-            font-size: 0.9rem; // 크기 조정
+            font-size: 1rem;
             margin-right: 10px;
             font-weight: 900;
-            text-decoration: underline;
-            text-underline-position: under;
-            text-transform: uppercase;
-        }
 
+        }
         .date {
-            font-size: 0.8rem;
+            font-style: 0.8rem;
             color: var(--white200);
         }
     }
-}
+} 
 
 @media (max-width: 1700px){
     .today__inner {
@@ -64,8 +53,8 @@
             width: calc(100% - 500px);
 
             .desc {
-                @include line(2);
-                font-size: 0.8rem; // 모바일에서 크기 조정
+                margin-bottom: 1rem;
+                color: var(--white200);
             }
         }
     }
