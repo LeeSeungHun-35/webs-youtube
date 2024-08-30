@@ -19,56 +19,56 @@ export const todayText = [
     },{
         img: todayView02,
         title: "사이트 만들기",
-        desc : "리액트 연습용 유튜브 클론 코딩",
-        author : "webstoryboy",
+        desc : "조회수 9543억회",
+        author : <span className="author">😊 LeeSeunhHun • 2일 전</span>,
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
         date: "2023.07.07",
         page: "/port"
     },{
         img: todayView03,
         title: "React  사이트 만들기",
-        desc : "리액트 연습용 유튜브 클론 코딩",
-        author : "webstoryboy",
+        desc : "조회수 9543억회",
+        author : <span className="author">😊 LeeSeunhHun • 2일 전</span>,
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
         date: "2023.07.07",
         page: "/port"
     },{
         img: todayView04,
         title: " 사이트 만들기",
-        desc : "리액트 연습용 유튜브 클론 코딩",
-        author : "webstoryboy",
+        desc : "조회수 9543억회",
+        author : <span className="author">😊 LeeSeunhHun • 2일 전</span>,
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
         date: "2023.07.07",
         page: "/port"
     },{
         img: todayView05,
         title: " 사이트 만들기",
-        desc : "리액트 연습용 유튜브 클론 코딩",
-        author : "webstoryboy",
+        desc : "조회수 9543억회",
+        author : <span className="author">😊 LeeSeunhHun • 2일 전</span>,
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
         date: "2023.07.07",
         page: "/port"
     },{
         img: todayView06,
         title: "사이트 만들기",
-        desc : "리액트 연습용 유튜브 클론 코딩",
-        author : "webstoryboy",
+        desc : "조회수 9543억회",
+        author : <span className="author">😊 LeeSeunhHun • 2일 전</span>,
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
         date: "2023.07.07",
         page: "/gsap"
     },{
         img: todayView07,
         title: "321432432",
-        desc : "리액트 연습용 유튜브 클론 코딩",
-        author : "webstoryboy",
+        desc : "조회수 9543억회",
+        author : <span className="author">😊 LeeSeunhHun • 2일 전</span>,
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
         date: "2023.07.07",
         page: "/webd"
     },{
         img: todayView08,
-        title: "디자인 부터 코딩까지 ",
-        desc : "리액트 연습용 유튜브 클론 코딩",
-        author : "webstoryboy",
+        title: "디자인 부터 코딩까지 준비 완료",
+        desc : "조회수 9543억회",
+        author : <span className="author">😊 LeeSeunhHun • 2일 전</span>,
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
         date: "2023.07.07",
         page: "/website"

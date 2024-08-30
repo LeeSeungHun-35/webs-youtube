@@ -13,7 +13,7 @@ const Today = () => {
                         </Link>
                     </div>
                     <div className='today__text'>
-                        <span className='today'>추천 영상</span>
+                        <span className='today'>오늘의 영상</span>
                         <h3 className='title'>
                             <Link to={item.page}>{item.title}</Link>
                         </h3>
