@@ -9,7 +9,7 @@ import { CiMoneyBill } from "react-icons/ci";
 
 import { AiFillGithub } from "react-icons/ai";
 import { AiOutlineInstagram } from "react-icons/ai";
-import { SiTistory } from "react-icons/si"; // SiTistory 아이콘 임포트
+import { SiTistory } from "react-icons/si"; 
 
 export const headerMenus = [
     {
@@ -57,7 +57,7 @@ export const headerMenus = [
 export const searchKeyword = [
     {
         title: "web",
-        src: "/search/webstoryboy"
+        src: "/search/web"
     },
     {
         title: "HTML",
@@ -108,7 +108,7 @@ export const snsLink = [
         icon: <AiFillGithub />
     },
     {
-        title: "blog", // 티스토리 아이콘으로 수정
+        title: "blog", 
         url: "https://shsecurity1.tistory.com/",
         icon: <SiTistory />
     },
